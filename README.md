@@ -9,9 +9,9 @@ Various programming concepts have been used in the making of this system, includ
 Below are screenshots of the console application:
 
 ![menu interface](https://user-images.githubusercontent.com/36261653/47964269-4d675c80-e05d-11e8-9fbe-377036778c46.png)
+![admin menu interface](https://user-images.githubusercontent.com/36261653/47964292-a0411400-e05d-11e8-9b6d-ba020a417651.png)
 
-Customer Menu Interface
-
+Administrator User Interface
 
 
 
