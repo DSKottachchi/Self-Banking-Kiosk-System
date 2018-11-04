@@ -8,5 +8,11 @@ Various programming concepts have been used in the making of this system, includ
 
 Below are screenshots of the console application:
 
+![menu interface](https://user-images.githubusercontent.com/36261653/47964269-4d675c80-e05d-11e8-9fbe-377036778c46.png)
+
+Customer Menu Interface
+
+
+
 
 
